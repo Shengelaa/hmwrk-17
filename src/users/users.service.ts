@@ -6,23 +6,23 @@ export class UsersService {
   private users = [
     {
       id: 1,
-      firstName: 'ani',
-      lastName: 'gvin',
-      phoneNumber: 232244224,
-      gender: 'female',
+      firstName: 'levani',
+      lastName: 'shengelia',
+      phoneNumber: 5123512,
+      gender: 'male',
     },
     {
       id: 2,
-      firstName: 'gio',
-      lastName: 'gvin',
-      phoneNumber: 123244223,
+      firstName: 'nika',
+      lastName: 'truba',
+      phoneNumber: 664352692,
       gender: 'male',
     },
     {
       id: 3,
       firstName: 'nini',
-      lastName: 'gvin',
-      phoneNumber: 6643737292,
+      lastName: 'gela',
+      phoneNumber: 652557292,
       gender: 'female',
     },
   ];
